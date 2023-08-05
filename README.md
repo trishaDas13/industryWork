@@ -1,4 +1,5 @@
 # industryWork
+
 https://trishadas13.github.io/industryWork/
 
 Webpage view:
@@ -110,4 +111,23 @@ css code:
 
 HTML:--
 
+HTML Tag: The root element of an HTML document, encompassing all other elements and providing the structure for web content.
+
+"p" Tag: Defines a paragraph of text, creating a block-level container for textual content.
+
+"img" Tag: Embeds an image within a webpage, using the specified source URL to display the image content.
+
+"div" Tag: A generic container element used for layout and grouping other elements, aiding in structuring and styling content.
+
+CSS:--
+
+Height: Sets the vertical dimension of an element, controlling its overall height on the webpage.
+
+Width: Defines the horizontal dimension of an element, determining its width within the layout.
+
+Background-Color: Specifies the background color of an element, adding visual styling to its content area.
+
+Padding: Creates space between an element's content and its border, influencing its internal spacing.
+
+Display: Determines how an element is shown on the page, affecting its layout behavior and interaction with other elements.
 
