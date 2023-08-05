@@ -81,3 +81,33 @@ Html code:
 css code:
 
 ![sectorcss](https://github.com/trishaDas13/industryWork/assets/126088849/1fca6b2a-e6a3-4ed0-bd50-ced52c9761a5)
+
+HTML:--
+
+"div" tag: 
+The "div" tag is a fundamental HTML element used for creating a generic container. It doesn't have any inherent styling or semantic meaning but serves as a structural block to group and organize other content or elements. It's commonly used to apply CSS styling, layout, or JavaScript interactions to a specific section of a webpage. The <div> tag aids in structuring and formatting web content without implying any specific content type.
+
+"img" tag: 
+The <img> tag is an HTML element used to embed images in a webpage. It requires a src attribute that specifies the image file's URL. The alt attribute provides alternative text for accessibility and search engines. It's self-closing and can have attributes like width and height to control the image's dimensions.
+
+CSS:--
+
+Width and Height: These properties are used to define the width and height of an element's content box. You can set these values using absolute lengths (like pixels) or relative units (like percentages).
+
+Margin: The CSS property margin defines space around an element, creating separation from neighboring elements. It can be set for individual sides (margin-top, margin-right, margin-bottom, margin-left) or as a shorthand for all sides.
+
+Webpage view:
+
+![footer](https://github.com/trishaDas13/industryWork/assets/126088849/096a02e5-765c-4d57-923c-8c9986473fcb)
+
+Html code:
+
+![footerhtml](https://github.com/trishaDas13/industryWork/assets/126088849/0cd8d497-c12e-4588-8f19-7a74b4025ffd)
+
+css code:
+
+![footercss](https://github.com/trishaDas13/industryWork/assets/126088849/b8ddf1b5-5aad-4dc7-b84d-639a7eddd9ed)
+
+HTML:--
+
+
