@@ -16,7 +16,7 @@ css code:
 
 HTML:--
 
-The <div> tag is a fundamental HTML element used for creating a generic container. It doesn't have any inherent styling or semantic meaning but serves as a structural block to group and organize other content or elements. It's commonly used to apply CSS styling, layout, or JavaScript interactions to a specific section of a webpage. The <div> tag aids in structuring and formatting web content without implying any specific content type.
+The div tag is a fundamental HTML element used for creating a generic container. It doesn't have any inherent styling or semantic meaning but serves as a structural block to group and organize other content or elements. It's commonly used to apply CSS styling, layout, or JavaScript interactions to a specific section of a webpage. The <div> tag aids in structuring and formatting web content without implying any specific content type.
 
 CSS:--
 
@@ -58,7 +58,7 @@ css code:
 
 HTML:--
 
-The <div> tag is a fundamental HTML element used for creating a generic container. It doesn't have any inherent styling or semantic meaning but serves as a structural block to group and organize other content or elements. It's commonly used to apply CSS styling, layout, or JavaScript interactions to a specific section of a webpage. The <div> tag aids in structuring and formatting web content without implying any specific content type.
+The div tag is a fundamental HTML element used for creating a generic container. It doesn't have any inherent styling or semantic meaning but serves as a structural block to group and organize other content or elements. It's commonly used to apply CSS styling, layout, or JavaScript interactions to a specific section of a webpage. The <div> tag aids in structuring and formatting web content without implying any specific content type.
 
 CSS:--
 
