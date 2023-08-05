@@ -28,7 +28,7 @@ Padding: Padding is the space between an element's content and its border. You c
 
 Display: The display property determines how an element is rendered on the page. Common values include block, inline, inline-block, and none.
 
-Background-Color: This property specifically sets the background color of an element. It's used in conjunction with the background property to set the color without an image.
+**Background-Color: ** This property specifically sets the background color of an element. It's used in conjunction with the background property to set the color without an image.
 
 Color: The color property sets the text color within an element. You can use color names, hexadecimal values, RGB values, and more.
 
