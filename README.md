@@ -1,2 +1,2 @@
 # industryWork
-https://github.com/trishaDas13/industryWork
+https://trishadas13.github.io/industryWork/
